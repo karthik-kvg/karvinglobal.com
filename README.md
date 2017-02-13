@@ -1,2 +1,0 @@
-# karvinglobal.com
-my website
